@@ -27,7 +27,10 @@ After deploying service kubia in GKE, the bash script will check and show HTTP r
    ```
    terraform destroy
    ```
-2. PROJECT ID
+2. Type
+   ```
+   PROJECT ID
+   ```
 3. Type
    ```
    Yes
