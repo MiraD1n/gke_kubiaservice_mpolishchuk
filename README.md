@@ -12,6 +12,7 @@
 3. Rename account key JSON into gcpkey.json and put it in the current project folder
 4. Run
    ```
+   chmod 744 auto_deploy.bash
    ./auto_deploy.bash
    ```
 5. Enter PROJECT ID
