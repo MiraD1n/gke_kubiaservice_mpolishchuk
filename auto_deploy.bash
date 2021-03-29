@@ -5,7 +5,7 @@ get_srv_status ()
 set -u
 set -e
 url=${1:-'http://'$external_ip':8080'}
-timeout=${2:-'3'}
+timeout=${2:-'5'}
 #            ^in seconds
 flag=${3:-'--status'}
 #    curl options, e.g. -L to follow redirects
