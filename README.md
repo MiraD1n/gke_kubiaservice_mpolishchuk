@@ -7,7 +7,7 @@
 5. [Configure cluster access for kubectl](
 https://cloud.google.com/kubernetes-engine/docs/how-to/cluster-access-for-kubectl)
 5. [Create service account keys JSON](https://cloud.google.com/iam/docs/creating-managing-service-account-keys#iam-service-account-keys-create-console)
-(~~*better via Console*~~)
+(~*better via Console*~)
 6. Rename account key JSON into gcpkey.json and put it in the current project folder
 7. Done
 
