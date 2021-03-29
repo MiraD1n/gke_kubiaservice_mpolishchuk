@@ -2,7 +2,9 @@
 1. [Install terraform](https://learn.hashicorp.com/tutorials/terraform/install-cli)
 2. [Install GCloudSDK](https://cloud.google.com/sdk/docs/install)
 3. [Install Google Kubernetes Engine](https://cloud.google.com/kubernetes-engine/docs/how-to/cluster-access-for-kubectl)
-*Do not forget Enable Kubernetes API
+
+*Do not forget Enable Kubernetes API*
+
 4. [Create PROJECT](https://cloud.google.com/resource-manager/docs/creating-managing-projects)
 5. [Configure cluster access for kubectl](
 https://cloud.google.com/kubernetes-engine/docs/how-to/cluster-access-for-kubectl)
