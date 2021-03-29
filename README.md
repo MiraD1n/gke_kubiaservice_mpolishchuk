@@ -1,7 +1,7 @@
 # Prepare Environment
 1. [Install terraform](https://learn.hashicorp.com/tutorials/terraform/install-cli)
 2. [Install GCloudSDK](https://cloud.google.com/sdk/docs/install)
-3. [Install Google Kubernetes Engine](https://cloud.google.com/kubernetes-engine/docs/how-to/cluster-access-for-kubectl)
+3. [Configure cluster access for kubectl](https://cloud.google.com/kubernetes-engine/docs/how-to/cluster-access-for-kubectl)
 4. Done
 
 # Deploy luksa/kubia service via terraform in GKE
