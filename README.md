@@ -36,4 +36,4 @@ After deploying service kubia in GKE, the bash script will check and show HTTP r
    ```
 4. Done
 
-###### PS. Full list of used command contained in FullBuild.md
+###### PS. Full list of used command contained in [FullBuild.md](https://github.com/MiraD1n/gke_kubiaservice_mpolishchuk/blob/main/FullBuild.md)
